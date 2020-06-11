@@ -3,4 +3,5 @@ class User < ApplicationRecord
     length: { maximum: 20}
 
     has_many :posts
+    has_many :comments
 end
