@@ -1,24 +1,68 @@
-# README
+# Micro-reddit
+ruby on rails project
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Building a micro reddit with ruby on rails
 
-Things you may want to cover:
 
-* Ruby version
 
-* System dependencies
+## Table of Contents
 
-* Configuration
+* [About the Project](#about-the-project)
+* [LIVE VIDEO](#live_video)
+* [BUILT WITH](#built_with)
+* [AUTOMATED TEST](#automated_test)
+* [ACKNOWLEDGMENT](#acknowledgment)
+* [USAGE](#usage)
+* [AUTHORS](#authors)
 
-* Database creation
+## About the project
 
-* Database initialization
+We built an application similar to Reddit (called Micro-Reddit) where a user can create a post and add comments to it.
 
-* How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
+## Built With
 
-* Deployment instructions
+-ruby on rails
 
-* ...
+### Usage
+
+- $  git clone https://github.com/kotoku-code/micro-reddit
+- $  bundle install    -> run this command to install the required gems
+- $  rails server      -> run this command in terminal, then open localhost.3000 in your web-server
+
+
+
+
+## Acknowledgment
+
+- Thanks to microverse for facilitating the learning experience and overview.
+- https://www.microverse.org/
+- 
+
+
+## Authors
+
+👤 **Kotoku Kennedy**
+
+- Github: [@kotoku-code](https://github.com/kotoku-code)
+- Twitter: [@kennedykotoku](https://twitter.com/kennedykotoku)
+- Linkedin: [Kotoku Kennedy](www.linkedin.com/in/kotoku-kennedy-5b04a9128)
+
+ **Grace Tamara Ekunola**
+- Github: [@Temmarie](https://github.com/Temmarie)
+- Twitter: [@TemmarieW](https://twitter.com/TemmarieW)
+- Linkedin: [Grace Tife Ekunola](https://www.linkedin.com/in/ekunola-grace-b02b1b194/)
+
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!
+
+Feel free to check the [issues page](issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+## 📝 License
+
+This project is [MIT](LICENSE) licensed.
+

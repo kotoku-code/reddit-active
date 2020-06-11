@@ -1,6 +1,7 @@
 #!/usr/bin/env ruby
 require 'fileutils'
-include FileUtils
+module FileUtils
+end
 
 # path to your application root.
 APP_ROOT = File.expand_path('..', __dir__)
