@@ -33,7 +33,7 @@ We built an application similar to Reddit (called Micro-Reddit) where a user can
 
 
 
-## Acknowledgment
+## Acknowledgments
 
 - Thanks to microverse for facilitating the learning experience and overview.
 - https://www.microverse.org/
